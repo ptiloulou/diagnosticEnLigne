@@ -20,5 +20,6 @@ else {
 	require ('./controle/' . $controle . '.php');
 	$action ();
 } 
+hello
 
 ?>
